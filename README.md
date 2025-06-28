@@ -27,7 +27,7 @@ Follow these steps to get your Guardian Bot up and running!
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/aradashkan/Discord-Security-Bot.git
-   cd discord-guardian-bot
+   cd Discord-Security-Bot
    ```
 
 2. **Install Dependencies**:
