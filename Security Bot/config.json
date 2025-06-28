@@ -1,0 +1,10 @@
+{
+  "botToken": "",
+  "whitelist": [],
+  "rateLimitDelay": 2000,
+  "logUserId": "",
+  "debounceTime": 5000,
+  "retryAttempts": 3,
+  "retryDelay": 1000,
+  "ignoredChannelIds": []
+}
